@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudo Sistema de Informações e pretendo fazer uma pós presencial.<br>Estou estudando Python como linguagem principal de desenvolvimento.<br>Tenho alguns projetos de sites apenas Front-end que era o quê estava estudando.<br>Estou trabalhando em Projetos Back-end que é o quê estudo atualmente.<br>
+Estudo Sistemas de Informação na Estácio e faço também cursos por fora.<br>Estou estudando Python como linguagem principal de desenvolvimento.<br>Tenho alguns projetos de sites apenas Front-end que era oque eu estava estudando.<br>Estou trabalhando em Projetos Back-end que é oque eu estudo atualmente.<br>
 
 
 # 💻 Tech Stack:
