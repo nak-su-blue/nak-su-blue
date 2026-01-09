@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Estamos em construção eterna..</br>
-<br>Na sua próxima visita isso estará mais calro, organizado e útil.</br>
+<br>Na sua próxima visita isso estará mais claro, organizado e útil.</br>
 
 
 # 💻 Tech Stack:
