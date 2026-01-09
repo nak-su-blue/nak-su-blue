@@ -1,5 +1,6 @@
 # 💫 About Me:
-Estudo Sistemas de Informação na Estácio e faço também cursos por fora.<br>Estou estudando Python como linguagem principal de desenvolvimento.<br>Tenho alguns projetos de sites apenas Front-end que era oque eu estava estudando.<br>Estou trabalhando em Projetos Back-end que é oque eu estudo atualmente.<br>
+<br>Estamos em construção eterna..</br>
+<br>Na sua próxima visita isso estará mais calro, organizado e útil.</br>
 
 
 # 💻 Tech Stack:
